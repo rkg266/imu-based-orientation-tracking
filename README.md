@@ -7,8 +7,8 @@ Implemented a projected gradient descent algorithm to track the 3D-orientation o
 <br> Vicon: Ground truth
 ![Roll-Pitch-Yaw plots](/plots_images/RollPitchYaw_plots.png)
 
-2. Given images of surroundings captured by an onboard camera. With the estimated orientation trajectory, stitch all the images to create a panaromic view of the robot throughout the duration of the experiment  <br>
-**Results:** Panarmoics images  generated for few of the datasets.
+2. Given images of surroundings captured by an onboard camera. With the estimated orientation trajectory, stitch all the images to create a panoramic view of the robot throughout the duration of the experiment  <br>
+**Results:** Panoramas generated for the datasets #8 and #9.
 ![Panaroma of dataset #8](/plots_images/Train_data_8_pan.jpg) <br>
 ![Panaroma of dataset #9](/plots_images/Train_data_9_pan.jpg)
 
