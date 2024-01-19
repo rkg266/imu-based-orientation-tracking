@@ -2,8 +2,8 @@
 Implemented a projected gradient descent algorithm to track the 3D-orientation of a robot undergoing pure rotation using the readings from the IMU.
 
 ## Tasks:
-1. Estimate the orientation trajectory of the robot by minimizing the squared error between Kinematics model and the IMU measurements. Compare the estimated trajectory with ground truth obtained from VICON recordings.
-**Results: ** The estimated and ground truth values of the Roll-Pitch-Yaw are plotted across time for nine different datasets.
+1. Estimate the orientation trajectory of the robot by minimizing the squared error between Kinematics model and the IMU measurements. Compare the estimated trajectory with ground truth obtained from VICON recordings. <br>
+**Results:** The estimated and ground truth values of the Roll-Pitch-Yaw are plotted across time for nine different datasets.
 Vicon: Ground truth
 ![Roll-Pitch-Yaw plots](/plots_images/RollPitchYaw_plots.png)
 
