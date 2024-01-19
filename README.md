@@ -12,9 +12,8 @@ Implemented a projected gradient descent algorithm to track the 3D-orientation o
 ![Panaroma of dataset #8](/plots_images/Train_data_8_pan.jpg) <br>
 ![Panaroma of dataset #9](/plots_images/Train_data_9_pan.jpg)
 
-## Caution:
-1. Please DO NOT merge training and test data into single directory. Store them in completely different directories. 
-Also DO NOT change the .pkl file names of the data.
+## Data:
+Contact rkgutta266@gmail.com
 
 ## Libraries required:
 Numpy, matplotlib, pickle, os, autograd, transforms3d, tqdm
