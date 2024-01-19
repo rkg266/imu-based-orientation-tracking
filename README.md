@@ -4,9 +4,13 @@ Implemented a projected gradient descent algorithm to track the 3D-orientation o
 ## Tasks:
 1. Estimate the orientation trajectory of the robot by minimizing the squared error between Kinematics model and the IMU measurements. Compare the estimated trajectory with ground truth obtained from VICON recordings. <br>
 **Results:** The estimated and ground truth values of the Roll-Pitch-Yaw are plotted across time for nine different datasets.
-Vicon: Ground truth
+<br> Vicon: Ground truth
 ![Roll-Pitch-Yaw plots](/plots_images/RollPitchYaw_plots.png)
 
+2. Given images of surroundings captured by an onboard camera. With the estimated orientation trajectory, stitch all the images to create a panaromic view of the robot throughout the duration of the experiment  <br>
+**Results:** Panarmoics images  generated for few of the datasets.
+![Panaroma of dataset #8](/plots_images/Train_data_8_pan.jpg) <br>
+![Panaroma of dataset #9](/plots_images/Train_data_9_pan.jpg)
 
 ## Caution:
 1. Please DO NOT merge training and test data into single directory. Store them in completely different directories. 
