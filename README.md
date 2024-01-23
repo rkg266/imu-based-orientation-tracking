@@ -31,3 +31,5 @@ Numpy, matplotlib, pickle, os, autograd, transforms3d, tqdm
 2. //testpickle: Contains pickle files of estimated quaternions, cost values and gradient norm values of testing data. (FILE INDEXING: 9, 10)
 3. //PlotImages: Contains Yaw-Pitch-Roll and cost function plots for all data sets. (FILE INDEXING: 1...11)
 4. //PanoramaImages: Contains panorama images for all data sets. (FILE INDEXING: 1...11)
+
+**NOTE:** Refer to Project_report.pdf for detailed information.
