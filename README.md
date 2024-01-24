@@ -32,4 +32,4 @@ Numpy, matplotlib, pickle, os, autograd, transforms3d, tqdm
 3. //PlotImages: Contains Yaw-Pitch-Roll and cost function plots for all data sets. (FILE INDEXING: 1...11)
 4. //PanoramaImages: Contains panorama images for all data sets. (FILE INDEXING: 1...11)
 
-**NOTE:** Refer to Project_report.pdf for detailed information.
+
